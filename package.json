@@ -26,5 +26,13 @@
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "**DataVisify** is a web application that allows users to upload CSV files and generate interactive graphs and visualizations based on the data. It leverages Plotly.js for creating a variety of chart types to help users analyze their data efficiently.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": " @AiCoder69/DataVisify"
+  },
+  "author": "aicoder69",
+  "license": "ISC"
 }
